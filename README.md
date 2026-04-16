@@ -3,8 +3,8 @@
 **Phase 4: Pipeline & Governance**
 
 **Team**  
-- Peter Otieno – Processing & Spark Lead  
-- Nurudeen Showole – Database & Schema Lead  
+- Peter Otieno – Database & Schema Lead  
+- Nurudeen Showole – Processing & Spark Lead
 - **Collins Kemboi** – Pipeline & Governance Lead
 
 ## Architecture
